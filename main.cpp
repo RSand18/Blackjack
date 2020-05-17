@@ -4,14 +4,9 @@
 void main()
 {
 	addDealer();
-
 	addPlayer();
-
 	start();
-
 	turn();
-
 	checkWin();
-
 	system("pause");
 }

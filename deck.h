@@ -5,11 +5,7 @@
 
 
 void init_deck();
-
 void shuffler();
-
 void print_deck();
-
 int  getCard();
-
 bool is_deck_empty();

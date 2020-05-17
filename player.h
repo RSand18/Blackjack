@@ -10,10 +10,7 @@ private:
 public:
 
 	void Hit();
-
 	void Stand();
-
 	int CheckHand();
-
 	char choice();
 };
